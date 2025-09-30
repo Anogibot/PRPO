@@ -25,10 +25,9 @@ conda activate llava
 
 ### 2. Dataset Preparation
 
-Download the training dataset from the following link:
-```
-[Dataset Download Link]
-```
+To access the DF-R5 dataset, please fill out the request form:
+
+[DF-R5 Dataset Access Form](https://docs.google.com/forms/d/e/1FAIpQLSf4RCDkaWzCyx_X4-OJ1-h0ICyraiSGFamZ_zuC7Kc9B2FPug/viewform?usp=header)
 
 Your dataset should be organized as follows:
 ```
